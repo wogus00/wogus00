@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wogus00
+- 👋 Hi, my name is Jaehyeon Park
 - 🎓 I'm undergraduate student @University of Toronto
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning machine learninig algorithms 
